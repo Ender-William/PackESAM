@@ -1,0 +1,2 @@
+include PackESAM/weights/*.jit
+include PackESAM/weights/*.onnx
