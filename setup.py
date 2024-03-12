@@ -18,11 +18,10 @@ setup(
         'Pillow >= 7.1.2',
     ],
     classifiers=[
-        'License :: OSI Approved :: Apache License', 
         'Intended Audience :: Developers',
         'Programming Language :: Python :: 3.8',
         'Programming Language :: Python :: 3.9',
-        'Programming Language :: Python :: 3.10.0',
+        'Programming Language :: Python :: 3.10',
         'Programming Language :: Python :: 3.11',
         'Programming Language :: Python :: 3.12',
     ]
